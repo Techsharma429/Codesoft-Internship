@@ -1,2 +1,2 @@
-Task 1 - Calculator
+Task 2 - Calculator
 Basic calculator built using Python 
